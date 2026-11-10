@@ -25,7 +25,7 @@ function crearFormularioAurora() {
       'Sobre el contenido\nLa aplicación trata sobre violencia de género. No se te preguntará por experiencias personales y todos los datos que escribirás en la aplicación son inventados. Si en algún momento te sientes incómoda, puedes parar.',
       'Tu participación es voluntaria\nPuedes no participar o retirarte en cualquier momento, sin dar explicaciones y sin ninguna consecuencia.',
       'Tus datos\nTu nombre se pide solo para organizar las respuestas y no aparecerá en los resultados, que se presentarán agrupados. No se tomarán fotos, videos ni grabaciones. La información se usará solo con fines académicos, conforme a la ley de protección de datos personales (Ley 1581 de 2012).',
-      'Contacto\nSi tienes preguntas, puedes escribir a la investigadora al correo lmacareo456@unab.edu.co.'
+      'Contacto\nSi tienes preguntas, puedes escribir a la investigadora al correo leydymacareo08@gmail.com.'
     ].join('\n\n'));
   form.addCheckboxItem()
     .setTitle('He leído esta información, mis preguntas fueron respondidas y acepto participar de forma voluntaria. Declaro que soy mayor de edad.')
